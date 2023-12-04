@@ -1,0 +1,34 @@
+Pengkondisian menggunakan if, else, dan elseif.
+
+<?php
+$nilai = 75;
+
+if ($nilai >= 70) {
+    echo "Lulus";
+} else {
+    echo "Gagal";
+}
+?>
+
+Perulangan menggunakan for, while, atau foreach.
+
+<?php
+// Contoh for
+for ($i = 1; $i <= 5; $i++) {
+    echo $i;
+}
+
+// Contoh while
+$j = 1;
+while ($j <= 5) {
+    echo $j;
+    $j++;
+}
+
+// Contoh foreach
+$colors = array("Merah", "Hijau", "Biru");
+foreach ($colors as $color) {
+    echo $color;
+}
+?>
+
