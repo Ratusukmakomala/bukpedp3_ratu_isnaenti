@@ -1,2 +1,5 @@
-# bukpedp3_ratu_isnaenti
+# SISTEM OPERASIONAL PEMESANAN MAKANAN DENGAN QR WAITING LINE METHOD
 Bukped Proyek 3
+
+
+
