@@ -8,6 +8,12 @@ Pada buku ini terdapat beberapa chapter diantaranya: pada chapter 1 membahas men
 
 Penulis berharap buku ini dapat menambah pengetahuan dan pengalaman bagi pembaca untuk membuat website pemesanan makanan menggunakan scan barcode. Bahkan kami berharap lebih jauh lagi agar buku ini bisa pembaca praktekkan sesuai kebutuhan. Sebagai penulis merasa masih banyak kekurangan dalam penyusunan buku ini karena keterbatasan pengetahuan dan pengalaman kami. Untuk itu, penulis sangat mengharapkan kritik dan saran yang membangun dari pembaca demi kesempurnaan buku ini. Untuk memudahkan pembaca dalam mempelajari tutorial pada buku ini, kami telah menyediakan kode yang bisa diunduh. Kode untuk buku ini di Github dengan alamat
 
+**Biografi Penulis**
+
+**Penulis 1 :** Ratu SukmaKomala lahir di Indramayu anak kedua dari dua bersaudara. Kota asal dari Indramayu, Jawa Barat. Hobi Jalan-jalan dan Shopping. Makanan favorit semua jenis masakan Ayam dan Bakso.
+
+**Penulis 2 :** Isnaenti Nur Latifah lahir di Purwokerto anak kedua dari dua bersaudara. Kota asal dari Purwokerto,Jawa Tengah. Hobi bersepeda dan menonton film. Makanan favorit opor ayam, rendang dan mendoan. 
+
 
 
 
