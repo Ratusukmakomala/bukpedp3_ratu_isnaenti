@@ -1,0 +1,15 @@
+Data formulir dapat diakses melalui variabel $_POST atau $_GET tergantung pada metode formulir.
+  
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $nama = $_POST["nama"];
+    $email = $_POST["email"];
+    echo "Halo, $nama! Email Anda adalah $email.";
+}
+?>
+
+<form method="post" action="<?php echo $_SERVER["PHP_SELF"];?>">
+    Nama: <input type="text" name="nama">
+    Email: <input type="text" name="email">
+    <input type="submit" value="Kirim">
+</form>
