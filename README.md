@@ -11,8 +11,11 @@ Penulis berharap buku ini dapat menambah pengetahuan dan pengalaman bagi pembaca
 **Biografi Penulis**
 
 **Penulis 1 :** Ratu SukmaKomala lahir di Indramayu anak kedua dari dua bersaudara. Kota asal dari Indramayu, Jawa Barat. Hobi Jalan-jalan dan Shopping. Makanan favorit semua jenis masakan Ayam dan Bakso.
+![image](https://github.com/Ratusukmakomala/bukpedp3_ratu_isnaenti/assets/100338225/7bba4a8e-f758-43c9-b370-b7a2a80fe20e)
+
 
 **Penulis 2 :** Isnaenti Nur Latifah lahir di Purwokerto anak kedua dari dua bersaudara. Kota asal dari Purwokerto,Jawa Tengah. Hobi bersepeda dan menonton film. Makanan favorit opor ayam, rendang dan mendoan. 
+
 
 
 
