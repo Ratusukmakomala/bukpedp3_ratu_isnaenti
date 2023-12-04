@@ -6,12 +6,19 @@ Pada setiap restoran umumnya masih menggunakan buku menu sebagai media pemesanan
 
 Pada buku ini terdapat beberapa chapter diantaranya: pada chapter 1 membahas mengenai:Pengenalan Bahasa Pemrograman & Aplikasi, pada chapter 2 membahas mengenai: Sistem Pelayanan Pemesanan Makanan dengan Waiting Line Method, pada chapter3 membahas mengenai: Tatacara Instalasi Aplikasi Kebutuhan Pendukung dalam Pembuatan Website Pemesanan Makanan, pada chapter 4 membahas mengenai: Membuat Website Pemesanan Makanan, dan pada chapter 5 membahas mengenai: Debugging Aplikasi Pemesanan Makanan.
 
-Penulis berharap buku ini dapat menambah pengetahuan dan pengalaman bagi pembaca untuk membuat website pemesanan makanan menggunakan scan barcode. Bahkan kami berharap lebih jauh lagi agar buku ini bisa pembaca praktekkan sesuai kebutuhan. Sebagai penulis merasa masih banyak kekurangan dalam penyusunan buku ini karena keterbatasan pengetahuan dan pengalaman kami. Untuk itu, penulis sangat mengharapkan kritik dan saran yang membangun dari pembaca demi kesempurnaan buku ini. Untuk memudahkan pembaca dalam mempelajari tutorial pada buku ini, kami telah menyediakan kode yang bisa diunduh. Kode untuk buku ini di Github dengan alamat
+Penulis berharap buku ini dapat menambah pengetahuan dan pengalaman bagi pembaca untuk membuat website pemesanan makanan menggunakan scan barcode. Bahkan kami berharap lebih jauh lagi agar buku ini bisa pembaca praktekkan sesuai kebutuhan. Sebagai penulis merasa masih banyak kekurangan dalam penyusunan buku ini karena keterbatasan pengetahuan dan pengalaman kami. Untuk itu, penulis sangat mengharapkan kritik dan saran yang membangun dari pembaca demi kesempurnaan buku ini. Untuk memudahkan pembaca dalam mempelajari tutorial pada buku ini, kami telah menyediakan kode yang bisa diunduh. Kode untuk buku ini di Github dengan alamat.
+
+![image](https://github.com/Ratusukmakomala/bukpedp3_ratu_isnaenti/assets/100338225/25fff608-8a0d-4342-9e60-9a1a8e4b66a1)
+
+
 
 **Biografi Penulis**
 
 **Penulis 1 :** Ratu SukmaKomala lahir di Indramayu anak kedua dari dua bersaudara. Kota asal dari Indramayu, Jawa Barat. Hobi Jalan-jalan dan Shopping. Makanan favorit semua jenis masakan Ayam dan Bakso.
 ![image](https://github.com/Ratusukmakomala/bukpedp3_ratu_isnaenti/assets/100338225/7bba4a8e-f758-43c9-b370-b7a2a80fe20e)
+
+
+
 
 
 **Penulis 2 :** Isnaenti Nur Latifah lahir di Purwokerto anak kedua dari dua bersaudara. Kota asal dari Purwokerto,Jawa Tengah. Hobi bersepeda dan menonton film. Makanan favorit opor ayam, rendang dan mendoan. 
