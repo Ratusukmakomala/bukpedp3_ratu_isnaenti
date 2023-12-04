@@ -15,6 +15,8 @@ Penulis berharap buku ini dapat menambah pengetahuan dan pengalaman bagi pembaca
 
 
 **Penulis 2 :** Isnaenti Nur Latifah lahir di Purwokerto anak kedua dari dua bersaudara. Kota asal dari Purwokerto,Jawa Tengah. Hobi bersepeda dan menonton film. Makanan favorit opor ayam, rendang dan mendoan. 
+![image](https://github.com/Ratusukmakomala/bukpedp3_ratu_isnaenti/assets/100338225/14a4eeec-4a96-4729-a918-a110957e2350)
+
 
 
 
