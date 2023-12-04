@@ -1,0 +1,2 @@
+$a = 5;
+$b = $a; // $b sekarang memiliki nilai 5, tetapi keduanya merujuk ke lokasi memori yang sama
