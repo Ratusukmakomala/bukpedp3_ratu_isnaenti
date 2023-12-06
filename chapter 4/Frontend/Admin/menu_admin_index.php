@@ -34,3 +34,9 @@ class Index extends Component
     #[On('reload')]
     public function reload()
     {
+                $menu = new Menu();
+        $this->menus = $menu->getMenus();
+    }
+}
+
+
