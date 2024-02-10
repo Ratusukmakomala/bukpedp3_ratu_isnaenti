@@ -8,7 +8,7 @@ Pada buku ini terdapat beberapa chapter diantaranya: pada chapter 1 Pengenalan P
 
 Penulis berharap buku ini dapat menambah pengetahuan dan pengalaman bagi pembaca untuk membuat website pemesanan makanan menggunakan scan QR. Bahkan kami berharap lebih jauh lagi agar buku ini bisa pembaca praktikkan sesuai kebutuhan. Penulis berharap mendapatkan kritik dan saran yang membangun dari pembaca demi kesempurnaan buku ini. Untuk memudahkan pembaca dalam mempelajari tutorial pada buku ini, kami telah menyediakan kode yang bisa diunduh. Kode untuk buku ini di Github dengan alamat
 
-foto_bukped/cover.jpg
+[foto_bukped/cover.jpg](https://raw.githubusercontent.com/bukped/bukpedp3_ratu_isnaenti/main/foto_bukped/cover.jpg)
 
 
 
