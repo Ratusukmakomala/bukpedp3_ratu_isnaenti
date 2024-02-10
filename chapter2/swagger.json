@@ -1,0 +1,26 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Simple PHP API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api": {
+      "get": {
+        "summary": "Get a simple message",
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "example": {
+                  "message": "Hello, this is a simple API!"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

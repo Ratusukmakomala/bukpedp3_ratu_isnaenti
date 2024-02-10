@@ -1,0 +1,11 @@
+Menggunakan blok try-catch memungkinkan Anda menangani kesalahan eksekusi (exception) dengan lebih baik.
+
+<?php
+try {
+    // Kode yang mungkin menimbulkan kesalahan
+    $result = 10 / 0;
+} catch (Exception $e) {
+    // Menangani kesalahan
+    echo "Terjadi kesalahan: " . $e->getMessage();
+}
+?>

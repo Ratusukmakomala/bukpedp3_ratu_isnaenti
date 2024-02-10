@@ -1,0 +1,5 @@
+try {
+    // Kode yang mungkin memunculkan kesalahan
+} catch (Exception $e) {
+    echo 'Terjadi kesalahan: ' . $e->getMessage();
+}

@@ -1,0 +1,8 @@
+function hitung() {
+    static $counter = 0;
+    $counter++;
+    echo "Counter: $counter";
+}
+
+hitung(); // Output: Counter: 1
+hitung(); // Output: Counter: 2

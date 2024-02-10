@@ -1,0 +1,14 @@
+Mmbuat token paseto
+
+use ParagonIE\Paseto\Builder;
+use ParagonIE\Paseto\Keys\AsymmetricPublicKey;
+use ParagonIE\Paseto\Keys\AsymmetricSecretKey;
+
+$privateKey = AsymmetricSecretKey::generateNewKey();
+$publicKey = $privateKey->getPublicKey();
+
+$builder = Builder::public($privateKey)
+    ->set('data', 'Hello, Paseto!')
+    ->setExpiration(new DateTime('+1 day'));
+
+$token = $builder->toString();
