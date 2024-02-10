@@ -1,3 +1,0 @@
-<?php
-// Kode PHP disini
-?>

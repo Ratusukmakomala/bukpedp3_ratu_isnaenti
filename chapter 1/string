@@ -1,2 +1,0 @@
-$string = "Halo, dunia!";
-echo strlen($string); // Output: 12

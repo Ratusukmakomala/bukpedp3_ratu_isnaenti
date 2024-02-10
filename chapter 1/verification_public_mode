@@ -1,6 +1,0 @@
-use ParagonIE\Paseto\Parser;
-
-$parser = (new Parser())
-    ->setKey($publicKey);
-
-$parsedToken = $parser->parse($token);

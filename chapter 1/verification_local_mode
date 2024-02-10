@@ -1,8 +1,0 @@
-Memverifikasi token
-
-use ParagonIE\Paseto\Parser;
-
-$parser = (new Parser())
-    ->setKey($key);
-
-$parsedToken = $parser->parse($token);
